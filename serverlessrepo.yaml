@@ -8,9 +8,5 @@ Labels:
 - vulnerable
 Name: serverless-goat
 SemanticVersion: 1.0.1
-SourceCodeUrl: https://github.com/OWASP/Serverless-Goat
-SpdxLicenseId: AGPL-3.0-or-later
-public: true
-S3Bucket: puresec-app-repository
-AWSProfile: marketplace
-Region: us-east-1
+SourceCodeUrl: https://github.com/towerjeet/Serverless-Goat
+Region: ap-south-1
